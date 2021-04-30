@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57173a02-804d-4c3e-926b-77c8a395e0cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../assets/images/home/home_auth_pc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ios/Runner/Runner.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/home/app_auth_request_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/home/qr_check_result_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/house/hosue_new_visit_detail_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/house/house_new_visit_create_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/house/house_new_visit_data_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/house/house_new_visit_list_request_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/house/house_report_review_request_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/house/house_visit_review_request_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/login/stwich_role_request_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/mine/app_update_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/common/model/mine/role_mine_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/app_auth_request_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/app_update_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/hosue_new_visit_detail_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/house_new_visit_create_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/house_new_visit_data_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/house_new_visit_list_request_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/house_report_review_request_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/house_visit_review_request_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/qr_check_result_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/role_mine_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/generated/json/stwich_role_request_entity_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/home/scanner/app_auth_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/home/scanner/app_auth_page_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/home/scanner/home_scanner_page_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_detail_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_detail_page_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/review/house_report/house_new_report_review_detail_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/review/house_report/house_new_report_review_detail_page_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/review/house_report/house_new_report_review_list_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/review/house_report/house_new_report_review_lsit_page_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/review/house_visit/house_new_visit_review_detail_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/review/house_visit/house_new_visit_review_detail_page_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/review/house_visit/house_new_visit_review_list_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/house/review/house_visit/house_new_visit_review_list_page_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/page/content/mine/review/review_function_page_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/kotlin/com/jy/back2desktop/Back2desktopPlugin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/kotlin/com/jy/back2desktop_example/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/Back2desktopPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/Back2desktopPlugin.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/SwiftBack2desktopPlugin.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/back2desktop.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/back2desktop.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/back2desktop_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/app/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/app/src/main/kotlin/com/jy/agent/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/app/src/main/kotlin/com/jy/agent/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/common/components/status_tag.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/common/components/status_tag.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/common/components/upload_image_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/common/components/upload_image_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/common/model/house/house_source_report_request_entity.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/common/model/house/house_source_report_request_entity.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/common/model/login/login_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/common/model/login/login_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/common/model/login/login_model.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/common/model/login/login_model.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/base/json_convert_content.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/base/json_convert_content.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_customer_data_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_customer_data_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_new_report_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_new_report_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_project_list_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_project_list_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_report_detail_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_report_detail_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_report_list_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_report_list_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_report_request_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_report_request_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_sale_detail_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_sale_detail_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_sale_house_verify_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_sale_house_verify_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_sale_list_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_sale_list_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_sale_record_request_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_sale_record_request_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/generated/json/house_source_verify_by_wx_entity_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/generated/json/house_source_verify_by_wx_entity_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/net/apis/common_apis.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/net/apis/common_apis.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/net/apis/house_source_Apis.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/net/apis/house_source_Apis.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/net/apis/login_apis.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/net/apis/login_apis.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/net/jy_net.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/net/jy_net.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/net/urls/house_source_url.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/net/urls/house_source_url.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/net/urls/login_url.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/net/urls/login_url.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/content_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/content_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/content_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/content_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/home/home_fragment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/home/home_fragment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/home/home_fragment_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/home/home_fragment_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/home/scanner/home_scanner_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/home/scanner/home_scanner_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/common_view/custom_filter_bar_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/common_view/custom_filter_bar_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/common_view/house_sale_item_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/common_view/house_sale_item_view.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/house_key/house_source_key_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/house_key/house_source_key_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/house_source_list_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/house_source_list_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/house_source_list_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/house_source_list_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/house_source_sale_list_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/house_source_sale_list_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/house_source_sale_list_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/house_source_sale_list_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_customer_list_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_customer_list_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_report_detail_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_report_detail_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_report_detail_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_report_detail_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_report_list_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_report_list_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_report_lsit_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_report_lsit_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_respot_create_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_report/house_new_respot_create_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_agent_list_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_list_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_agent_list_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_list_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_create_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_create_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_create_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/new_house/house_new_visit/house_new_visit_create_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/house/sale_and_rent_house_detail/house_source_sale_detail_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/house/sale_and_rent_house_detail/house_source_sale_detail_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/message/message_chat_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/message/message_chat_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/message/message_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/message/message_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/mine/mine_fragment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/mine/mine_fragment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/mine/mine_fragment_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/mine/mine_fragment_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/content/mine/review/review_function_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/content/mine/review/review_function_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/login/login_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/login/login_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/login/login_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/login/login_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/page/login/register_page_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/page/login/register_page_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/router/app_router.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/router/app_router.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[5EF0217B11005776]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1psoYPhfN0MagB92VIAmMOACHpA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57173a02-804d-4c3e-926b-77c8a395e0cc" name="Default Changelist" comment="" />
+      <created>1615981205549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615981205549</updated>
+    </task>
+    <servers />
+  </component>
+</project>
